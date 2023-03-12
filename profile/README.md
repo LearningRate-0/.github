@@ -1,7 +1,7 @@
 # PCBB: Predicting Consumer Buying Behaviour
 <center>
 
-![logo](logo.png)
+![logo](https://github.com/LearningRate-0/.github/blob/main/profile/logo.png)
 
 </center>
 
