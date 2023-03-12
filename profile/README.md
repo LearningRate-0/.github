@@ -21,12 +21,12 @@ There are two main parts of this project:
 - [Website Front-end](https://github.com/LearningRate-0/PCBB-Frontend): This repository contains all the necessary files for the front-end of the application.
 - [Consumer buying behaviour predictor](https://github.com/LearningRate-0/Consumer-Behaviour-Predictor): This contains the model we developed. 
 
-This is our [documentation](https://github.com/LearningRate-0/Consumer-Behaviour-Predictor/blob/main/README.md) and [final presentation](Presentation.pdf).
+This is our [documentation](https://github.com/LearningRate-0/Consumer-Behaviour-Predictor/blob/main/README.md) and [final presentation](https://github.com/LearningRate-0/.github/blob/main/profile/Presentation.pdf).
 
 ## Update
 We won 2nd place!
 <center>
 
-![team](team.jpg)
+![team](https://github.com/LearningRate-0/.github/blob/main/profile/team.jpg)
 
 </center>
